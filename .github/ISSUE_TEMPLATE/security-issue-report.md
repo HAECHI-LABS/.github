@@ -1,7 +1,7 @@
 ---
-name: Issue report
-about: Issue template
-title: ''
+name: Audit Issue report
+about: Issue Report template template
+title: 'Issue : <title>'
 labels: ''
 assignees: ''
 
